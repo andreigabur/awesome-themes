@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d44d8c2e-339b-438c-90e9-4316b3243489" name="Changes" comment="" />
+    <list default="true" id="d44d8c2e-339b-438c-90e9-4316b3243489" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/resources/theme/rose-pine/Awesome_Rose_Pine.theme.json" beforeDir="false" afterPath="$PROJECT_DIR$/resources/theme/rose-pine/Awesome_Rose_Pine.theme.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,6 +20,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
@@ -30,6 +35,8 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "/Users/andrei/Development/awesome-themes/jetbrains",
     "project.structure.last.edited": "SDKs",
     "project.structure.proportion": "0.15",
