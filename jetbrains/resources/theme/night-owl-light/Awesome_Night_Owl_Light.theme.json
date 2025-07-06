@@ -250,7 +250,7 @@
         "background": "#F0F0F0"
       },
 
-      "SectionHeader.background": "#F6F6F6",
+      "SectionHeader.background": "backgroundColor",
 
       "Tab": {
         "selectedForeground": "foregroundColor",
@@ -307,7 +307,7 @@
       "endBackground": "#d3e8f8"
     },
 
-    "SidePanel.background": "#F0F0F0",
+    "SidePanel.background": "backgroundColor",
 
     "SpeedSearch": {
       "foreground": "foregroundColor",
@@ -366,7 +366,7 @@
     },
 
     "ToolWindow": {
-      "background": "#F0F0F0",
+      "background": "backgroundColor",
       "Button": {
         "hoverBackground": "#E0E7EA",
         "selectedBackground": "#d3e8f8",
@@ -374,8 +374,8 @@
       },
 
       "Header": {
-        "background": "#F0F0F0",
-        "inactiveBackground": "#F0F0F0"
+        "background": "backgroundColor",
+        "inactiveBackground": "#backgroundColor"
       },
 
       "HeaderTab": {
@@ -424,7 +424,7 @@
         "selectionInactiveBackground": "#E0E7EA"
       },
       "separatorColor": "#d9d9d9",
-      "SidePanel.background": "#F0F0F0",
+      "SidePanel.background": "backgroundColor",
       "Details.background": "#FBFBFB"
     }
   },
