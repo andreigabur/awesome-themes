@@ -668,7 +668,7 @@
         <option name="DEFAULT_STATIC_FIELD">
             <value>
                 <option name="FOREGROUND" value="ebbcba"/>
-                <option name="FONT_TYPE" value="3"/>
+                <option name="FONT_TYPE" value="2"/>
             </value>
         </option>
         <option name="DEFAULT_STATIC_METHOD">
@@ -2033,7 +2033,6 @@
         <option name="STATIC_FINAL_FIELD_ATTRIBUTES">
             <value>
                 <option name="FOREGROUND" value="ebbcba"/>
-                <option name="FONT_TYPE" value="3"/>
             </value>
         </option>
         <option name="STATIC_METHOD_ATTRIBUTES" baseAttributes="DEFAULT_STATIC_METHOD"/>
@@ -2069,7 +2068,6 @@
         <option name="Static property reference ID">
             <value>
                 <option name="FOREGROUND" value="ebbcba"/>
-                <option name="FONT_TYPE" value="3"/>
             </value>
         </option>
         <option name="TEMPLATE_VARIABLE_ATTRIBUTES">
