@@ -15,52 +15,52 @@
   ],
   "contributes": {
     "themes": [
-      {
-				"label": "Awesome Andromeda",
-				"uiTheme": "vs-dark",
-				"path": "./themes/Awesome_Andromeda.json"
-			},
-      {
-				"label": "Awesome Github Dark",
-				"uiTheme": "vs-dark",
-				"path": "./themes/Awesome_Github_Dark.json"
-			},
-      {
-				"label": "Awesome Night Owl",
-				"uiTheme": "vs-dark",
-				"path": "./themes/Awesome_Night_Owl.json"
-			},
-      {
-				"label": "Awesome One Dark",
-				"uiTheme": "vs-dark",
-				"path": "./themes/Awesome_One_Dark.json"
-			},
-      {
-				"label": "Awesome Palenight",
-				"uiTheme": "vs-dark",
-				"path": "./themes/Awesome_Palenight.json"
-			},
-      {
-				"label": "Awesome Poimandres",
-				"uiTheme": "vs-dark",
-				"path": "./themes/Awesome_Poimandres.json"
-			},
-      {
-				"label": "Awesome Rose Pine",
-				"uiTheme": "vs-dark",
-				"path": "./themes/Awesome_Rose_Pine.json"
-			},
-      {
-				"label": "Awesome ☼ Night Owl Light",
-				"uiTheme": "vs",
-				"path": "./themes/Awesome_Night_Owl_Light.json"
-			},
-      {
-				"label": "Awesome ☼ Rose Pine Dawn",
-				"uiTheme": "vs",
-				"path": "./themes/Awesome_Rose_Pine_Dawn.json"
-			}
-    ]
+		{
+			"label": "Awesome Andromeda",
+			"uiTheme": "vs-dark",
+			"path": "./themes/Awesome_Andromeda.json"
+		},
+		{
+			"label": "Awesome Github Dark",
+			"uiTheme": "vs-dark",
+			"path": "./themes/Awesome_Github_Dark.json"
+		},
+		{
+			"label": "Awesome Night Owl",
+			"uiTheme": "vs-dark",
+			"path": "./themes/Awesome_Night_Owl.json"
+		},
+		{
+			"label": "Awesome One Dark",
+			"uiTheme": "vs-dark",
+			"path": "./themes/Awesome_One_Dark.json"
+		},
+		{
+			"label": "Awesome Palenight",
+			"uiTheme": "vs-dark",
+			"path": "./themes/Awesome_Palenight.json"
+		},
+		{
+			"label": "Awesome Poimandres",
+			"uiTheme": "vs-dark",
+			"path": "./themes/Awesome_Poimandres.json"
+		},
+		{
+			"label": "Awesome Rose Pine",
+			"uiTheme": "vs-dark",
+			"path": "./themes/Awesome_Rose_Pine.json"
+		},
+		{
+			"label": "Awesome ☼ One Light",
+			"uiTheme": "vs",
+			"path": "./themes/Awesome_One_Light.json"
+		},
+		{
+			"label": "Awesome ☼ Rose Pine Dawn",
+			"uiTheme": "vs",
+			"path": "./themes/Awesome_Rose_Pine_Dawn.json"
+		}
+	]
   },
   "repository": {
     "type": "git",

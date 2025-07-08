@@ -54,9 +54,11 @@
         <option name="SELECTION_FOREGROUND" value=""/>
         <option name="SEPARATOR_BELOW_COLOR"/>
         <option name="TEARLINE_COLOR" value="d9d9d9"/>
-        <option name="VCS_ANNOTATIONS_COLOR_1" value="dff4f2"/>
-        <option name="VCS_ANNOTATIONS_COLOR_2" value="eaf2f3"/>
-        <option name="VCS_ANNOTATIONS_COLOR_5" value="fbe3e2"/>
+        <option name="VCS_ANNOTATIONS_COLOR_1" value="B183F1"/>
+        <option name="VCS_ANNOTATIONS_COLOR_2" value="E397AA"/>
+        <option name="VCS_ANNOTATIONS_COLOR_3" value="75B868"/>
+        <option name="VCS_ANNOTATIONS_COLOR_4" value="B1D8E2"/>
+        <option name="VCS_ANNOTATIONS_COLOR_5" value="729EF5"/>
         <option name="VISUAL_INDENT_GUIDE" value="d9d9d9"/>
         <option name="WHITESPACES" value="d9d9d9"/>
         <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="93A1A1"/>
@@ -601,19 +603,19 @@
         </option>
         <option name="DIFF_DELETED">
             <value>
-                <option name="BACKGROUND" value="f76e6e50"/>
+                <option name="BACKGROUND" value="f76e6e33"/>
                 <option name="ERROR_STRIPE_COLOR" value="f76e6e"/>
             </value>
         </option>
         <option name="DIFF_INSERTED">
             <value>
-                <option name="BACKGROUND" value="49d0c550"/>
+                <option name="BACKGROUND" value="49d0c533"/>
                 <option name="ERROR_STRIPE_COLOR" value="49d0c5"/>
             </value>
         </option>
         <option name="DIFF_MODIFIED">
             <value>
-                <option name="BACKGROUND" value="6fbef650"/>
+                <option name="BACKGROUND" value="6fbef633"/>
                 <option name="ERROR_STRIPE_COLOR" value="6fbef6"/>
             </value>
         </option>

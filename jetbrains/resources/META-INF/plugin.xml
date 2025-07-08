@@ -27,7 +27,7 @@
     - Awesome Poimandres    - A modern theme with balanced contrast and vibrant highlights<br />
     - Awesome Rose Pine     - A classy minimalist theme inspired by natural pine and soho vibes<br />
 <br />
-    - Awesome Night Owl Light   - A night owl's companion also for the day<br />
+    - Awesome One Light         - The beloved Atom One Dark theme adapted for day<br />
     - Awesome Rose Pine Dawn    - A classy minimalist theme inspired by natural pine and soho vibes<br />
 <br />
     Each theme is optimized for long coding sessions and designed to reduce eye strain while maintaining excellent code readability. Perfect for developers who appreciate aesthetic coding environments.
@@ -51,7 +51,8 @@
         <themeProvider id="awesome-palenight" path="/theme/palenight/Awesome_Palenight.theme.json"/>
         <themeProvider id="awesome-poimandres" path="/theme/poimandres/Awesome_Poimandres.theme.json"/>
         <themeProvider id="awesome-rose-pine" path="/theme/rose-pine/Awesome_Rose_Pine.theme.json"/>
-        <themeProvider id="awesome-night-owl-light" path="/theme/night-owl-light/Awesome_Night_Owl_Light.theme.json"/>
+
+        <themeProvider id="awesome-one-light" path="/theme/one-light/Awesome_One_Light.theme.json"/>
         <themeProvider id="awesome-rose-pine-dawn" path="/theme/rose-pine-dawn/Awesome_Rose_Pine_Dawn.theme.json"/>
     </extensions>
 </idea-plugin>

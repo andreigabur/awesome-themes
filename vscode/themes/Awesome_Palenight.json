@@ -64,14 +64,9 @@
     "editorGroupHeader.tabsBackground": "#31364a",
     "editorGroupHeader.tabsBorder": "#262A39",
     "tab.activeBackground": "#292D3E",
-    "tab.activeForeground": "#eeffff",
-    "tab.border": "#272B3B",
-    "tab.activeBorder": "#262A39",
-    "tab.unfocusedActiveBorder": "#262A39",
-    "tab.inactiveBackground": "#31364A",
-    "tab.inactiveForeground": "#929ac9",
-    "tab.unfocusedActiveForeground": null,
-    "tab.unfocusedInactiveForeground": null,
+    "tab.activeForeground": "#BFC7D5",
+    "tab.activeBorder": "#BFC7D5",
+    "tab.inactiveBackground": "#292D3E",
     "editor.background": "#292D3E",
     "editor.foreground": "#BFC7D5",
     "editorLineNumber.foreground": "#4c5374",
@@ -215,7 +210,7 @@
     },
     {
       "name": "Comment",
-      "scope": "comment",
+      "scope": ["comment", "punctuation.definition.comment"],
       "settings": {
         "foreground": "#697098",
         "fontStyle": "italic"
