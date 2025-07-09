@@ -494,20 +494,20 @@
         </option>
         <option name="DIFF_DELETED">
             <value>
-                <option name="BACKGROUND" value="e06c7540"/>
-                <option name="ERROR_STRIPE_COLOR" value="7f848e"/>
+                <option name="BACKGROUND" value="e06c7566"/>
+                <option name="ERROR_STRIPE_COLOR" value="e06c75"/>
             </value>
         </option>
         <option name="DIFF_INSERTED">
             <value>
-                <option name="BACKGROUND" value="2c313c"/>
+                <option name="BACKGROUND" value="98c37966"/>
                 <option name="ERROR_STRIPE_COLOR" value="98c379"/>
             </value>
         </option>
         <option name="DIFF_MODIFIED">
             <value>
-                <option name="BACKGROUND" value="2c313c"/>
-                <option name="ERROR_STRIPE_COLOR" value="61afef"/>
+                <option name="BACKGROUND" value="e5c07b66"/>
+                <option name="ERROR_STRIPE_COLOR" value="e5c07b"/>
             </value>
         </option>
         <option name="DJANGO_FILTER">

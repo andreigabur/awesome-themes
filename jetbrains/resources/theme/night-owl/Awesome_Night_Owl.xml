@@ -501,13 +501,13 @@
         <option name="DIFF_INSERTED">
             <value>
                 <option name="BACKGROUND" value="9CCC6566"/>
-                <option name="ERROR_STRIPE_COLOR" value="c5e478"/>
+                <option name="ERROR_STRIPE_COLOR" value="9CCC65"/>
             </value>
         </option>
         <option name="DIFF_MODIFIED">
             <value>
                 <option name="BACKGROUND" value="e2b93d66"/>
-                <option name="ERROR_STRIPE_COLOR" value="82AAFF"/>
+                <option name="ERROR_STRIPE_COLOR" value="e2b93d"/>
             </value>
         </option>
         <option name="DJANGO_FILTER">
