@@ -153,7 +153,7 @@
         </option>
         <option name="BREAKPOINT_ATTRIBUTES">
             <value>
-                <option name="BACKGROUND" value="d0679d"/>
+                <option name="BACKGROUND" value="d0679d40"/>
             </value>
         </option>
         <option name="BUILDOUT.KEY">
@@ -488,25 +488,25 @@
         </option>
         <option name="DIFF_CONFLICT">
             <value>
-                <option name="BACKGROUND" value="f087bd"/>
+                <option name="BACKGROUND" value="d0679d"/>
                 <option name="ERROR_STRIPE_COLOR" value="d0679d"/>
             </value>
         </option>
         <option name="DIFF_DELETED">
             <value>
-                <option name="BACKGROUND" value="303340"/>
-                <option name="ERROR_STRIPE_COLOR" value="767c9d"/>
+                <option name="BACKGROUND" value="d0679d66"/>
+                <option name="ERROR_STRIPE_COLOR" value="d0679d"/>
             </value>
         </option>
         <option name="DIFF_INSERTED">
             <value>
-                <option name="BACKGROUND" value="303340"/>
-                <option name="ERROR_STRIPE_COLOR" value="5DE4c7"/>
+                <option name="BACKGROUND" value="5fb3a166"/>
+                <option name="ERROR_STRIPE_COLOR" value="5fb3a1"/>
             </value>
         </option>
         <option name="DIFF_MODIFIED">
             <value>
-                <option name="BACKGROUND" value="303340"/>
+                <option name="BACKGROUND" value="ADD7FF66"/>
                 <option name="ERROR_STRIPE_COLOR" value="ADD7FF"/>
             </value>
         </option>

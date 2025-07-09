@@ -47,7 +47,7 @@
         <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="C5E4FD"/>
         <option name="LOOKUP_COLOR" value="011627"/>
         <option name="METHOD_SEPARATORS_COLOR" value="28707d29"/>
-        <option name="MODIFIED_LINES_COLOR" value="a2bffc"/>
+        <option name="MODIFIED_LINES_COLOR" value="e2b93d"/>
         <option name="MT_FILESTATUS_NOT_CHANGED" value="d6deeb"/>
         <option name="MT_FILESTATUS_SUPPRESSED" value="637777"/>
         <option name="QUESTION_HINT" value="0b253a"/>
@@ -153,7 +153,7 @@
         </option>
         <option name="BREAKPOINT_ATTRIBUTES">
             <value>
-                <option name="BACKGROUND" value="da3633"/>
+                <option name="BACKGROUND" value="EF535040"/>
             </value>
         </option>
         <option name="BUILDOUT.KEY">
@@ -488,25 +488,25 @@
         </option>
         <option name="DIFF_CONFLICT">
             <value>
-                <option name="BACKGROUND" value="ff00aa"/>
+                <option name="BACKGROUND" value="EF5350"/>
                 <option name="ERROR_STRIPE_COLOR" value="ee5d43"/>
             </value>
         </option>
         <option name="DIFF_DELETED">
             <value>
-                <option name="BACKGROUND" value="234d70"/>
+                <option name="BACKGROUND" value="EF535066"/>
                 <option name="ERROR_STRIPE_COLOR" value="A599E9"/>
             </value>
         </option>
         <option name="DIFF_INSERTED">
             <value>
-                <option name="BACKGROUND" value="234d70"/>
+                <option name="BACKGROUND" value="9CCC6566"/>
                 <option name="ERROR_STRIPE_COLOR" value="c5e478"/>
             </value>
         </option>
         <option name="DIFF_MODIFIED">
             <value>
-                <option name="BACKGROUND" value="234d70"/>
+                <option name="BACKGROUND" value="e2b93d66"/>
                 <option name="ERROR_STRIPE_COLOR" value="82AAFF"/>
             </value>
         </option>

@@ -148,7 +148,7 @@
         </option>
         <option name="BREAKPOINT_ATTRIBUTES">
             <value>
-                <option name="BACKGROUND" value="fbe3e2"/>
+                <option name="BACKGROUND" value="E4564940"/>
             </value>
         </option>
         <option name="BUILDOUT.KEY">
@@ -597,13 +597,13 @@
         </option>
         <option name="DIFF_CONFLICT">
             <value>
-                <option name="BACKGROUND" value="daaa0150"/>
+                <option name="BACKGROUND" value="E45649"/>
                 <option name="ERROR_STRIPE_COLOR" value="daaa01"/>
             </value>
         </option>
         <option name="DIFF_DELETED">
             <value>
-                <option name="BACKGROUND" value="f76e6e33"/>
+                <option name="BACKGROUND" value="E4564940"/>
                 <option name="ERROR_STRIPE_COLOR" value="f76e6e"/>
             </value>
         </option>

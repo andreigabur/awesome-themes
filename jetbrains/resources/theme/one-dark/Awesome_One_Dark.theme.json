@@ -13,10 +13,9 @@
     "dis": "#636b78",
     "accent": "#61afef",
     "shadow": "#23252c",
-    "deepBg": "#21252b",
+    "deepBg": "#282c34",
     "red": "#e06c75",
     "yellow": "#e5c07b",
-    "orange": "#d19a66",
     "separator": "#343a45"
   },
   "editorScheme": "/theme/one-dark/Awesome_One_Dark.xml",
@@ -277,7 +276,8 @@
       "hoverInactiveBackground": "selBg",
       "selectionForeground": "selFg",
       "selectionInactiveBackground": "selBg",
-      "selectionInactiveForeground": "selFg"
+      "selectionInactiveForeground": "selFg",
+      "rowHeight": 24
     },
     "MainToolbar": {
       "background": "bg"

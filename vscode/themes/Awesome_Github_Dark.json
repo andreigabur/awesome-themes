@@ -89,7 +89,7 @@
     "tab.inactiveForeground": "#7d8590",
     "tab.inactiveBackground": "#24292e",
     "tab.activeBackground": "#24292e",
-    "tab.activeBorder": "#f78166",
+    "tab.activeBorder": "#e6edf3",
     "breadcrumb.foreground": "#7d8590",
     "breadcrumb.focusForeground": "#e6edf3",
     "breadcrumb.activeSelectionForeground": "#7d8590",

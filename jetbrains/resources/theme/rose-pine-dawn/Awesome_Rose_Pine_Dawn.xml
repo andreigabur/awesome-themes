@@ -153,7 +153,7 @@
         </option>
         <option name="BREAKPOINT_ATTRIBUTES">
             <value>
-                <option name="BACKGROUND" value="#b4637a40"/>
+                <option name="BACKGROUND" value="b4637a40"/>
             </value>
         </option>
         <option name="BUILDOUT.KEY">
@@ -488,26 +488,26 @@
         </option>
         <option name="DIFF_CONFLICT">
             <value>
-                <option name="BACKGROUND" value="907aa9"/>
+                <option name="BACKGROUND" value="b4637a"/>
                 <option name="ERROR_STRIPE_COLOR" value="907aa9"/>
             </value>
         </option>
         <option name="DIFF_DELETED">
             <value>
-                <option name="BACKGROUND" value="f2e9e1"/>
-                <option name="ERROR_STRIPE_COLOR" value="9893a5"/>
+                <option name="BACKGROUND" value="b4637a66"/>
+                <option name="ERROR_STRIPE_COLOR" value="b4637a"/>
             </value>
         </option>
         <option name="DIFF_INSERTED">
             <value>
-                <option name="BACKGROUND" value="f2e9e1"/>
-                <option name="ERROR_STRIPE_COLOR" value="286983"/>
+                <option name="BACKGROUND" value="56949f66"/>
+                <option name="ERROR_STRIPE_COLOR" value="56949f"/>
             </value>
         </option>
         <option name="DIFF_MODIFIED">
             <value>
-                <option name="BACKGROUND" value="f2e9e1"/>
-                <option name="ERROR_STRIPE_COLOR" value="56949f"/>
+                <option name="BACKGROUND" value="d7827e66"/>
+                <option name="ERROR_STRIPE_COLOR" value="d7827e"/>
             </value>
         </option>
         <option name="DJANGO_FILTER">
