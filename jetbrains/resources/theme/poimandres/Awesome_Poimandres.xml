@@ -443,6 +443,11 @@
                 <option name="FOREGROUND" value="5DE4c7"/>
             </value>
         </option>
+        <option name="DEFAULT_OPERATION_SIGN">
+            <value>
+                <option name="FOREGROUND" value="ADD7FF" />
+            </value>
+        </option>
         <option name="DEFAULT_PARAMETER">
             <value>
                 <option name="FOREGROUND" value="e4f0fb"/>
@@ -1407,7 +1412,7 @@
         </option>
         <option name="TEXT">
             <value>
-                <option name="FOREGROUND" value="a6accd"/>
+                <option name="FOREGROUND" value="e4f0fb"/>
                 <option name="BACKGROUND" value="1b1e28"/>
             </value>
         </option>

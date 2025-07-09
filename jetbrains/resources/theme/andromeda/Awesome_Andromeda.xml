@@ -431,7 +431,9 @@
             </value>
         </option>
         <option name="DEFAULT_LOCAL_VARIABLE">
-            <value/>
+            <value>
+                <option name="FOREGROUND" value="00e8c6"/>
+            </value>
         </option>
         <option name="DEFAULT_METADATA">
             <value>
@@ -443,9 +445,14 @@
                 <option name="FOREGROUND" value="f39c12"/>
             </value>
         </option>
+        <option name="DEFAULT_OPERATION_SIGN">
+            <value>
+                <option name="FOREGROUND" value="ee5d43" />
+            </value>
+        </option>
         <option name="DEFAULT_PARAMETER">
             <value>
-                <option name="FOREGROUND" value="D5CED9"/>
+                <option name="FOREGROUND" value="7cb7ff"/>
             </value>
         </option>
         <option name="DEFAULT_REASSIGNED_LOCAL_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE"/>
@@ -749,7 +756,7 @@
         <option name="JS.GLOBAL_FUNCTION" baseAttributes="DEFAULT_FUNCTION_DECLARATION"/>
         <option name="JS.GLOBAL_VARIABLE">
             <value>
-                <option name="FOREGROUND" value="FFE66D"/>
+                <option name="FOREGROUND" value="f39c12"/>
                 <option name="FONT_TYPE" value="3"/>
             </value>
         </option>

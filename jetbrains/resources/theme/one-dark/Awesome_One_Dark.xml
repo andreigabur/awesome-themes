@@ -431,7 +431,9 @@
             </value>
         </option>
         <option name="DEFAULT_LOCAL_VARIABLE">
-            <value/>
+            <value>
+                    <option name="FOREGROUND" value="e5c07b"/>
+            </value>
         </option>
         <option name="DEFAULT_METADATA">
             <value>
@@ -443,9 +445,14 @@
                 <option name="FOREGROUND" value="d19a66"/>
             </value>
         </option>
+        <option name="DEFAULT_OPERATION_SIGN">
+            <value>
+                <option name="FOREGROUND" value="56b6c2" />
+            </value>
+        </option>
         <option name="DEFAULT_PARAMETER">
             <value>
-                <option name="FOREGROUND" value="abb2bf"/>
+                <option name="FOREGROUND" value="e06c75"/>
             </value>
         </option>
         <option name="DEFAULT_REASSIGNED_LOCAL_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE"/>
